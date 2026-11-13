@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Mood Diary",
+    "slug": "mood-diary",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F7F4FF"
+    },
+    "android": {
+      "package": "com.example.mooddiary",
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F4FF"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6dc52828-ac0f-4c82-bc2f-cb458b146528"
+      }
+    }
+  }
+}
